@@ -1,27 +1,9 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.0">
-  <diagram name="Page-1" id="SiTxkblRzKF3GDe07n4U">
-    <mxGraphModel dx="1988" dy="1316" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.3">
+  <diagram name="Page-1" id="JDoDpbcZ25uD9diJoBfJ">
+    <mxGraphModel>
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="qHHxkoNkfqChTESwmua2-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/transportation-190/1000/aircraft_fighter_war_army_military_helicopter_helicopter_military-128.png" vertex="1" parent="1">
-          <mxGeometry x="194" y="355" width="128" height="128" as="geometry" />
-        </mxCell>
-        <mxCell id="qHHxkoNkfqChTESwmua2-4" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/storage/Datacenter_Server_Rack_ToR.svg;" vertex="1" parent="1">
-          <mxGeometry x="313" y="-97" width="88.2" height="178.8" as="geometry" />
-        </mxCell>
-        <mxCell id="qHHxkoNkfqChTESwmua2-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/transportation-190/1000/aircraft_fighter_war_army_military_helicopter_helicopter_military-128.png" vertex="1" parent="1">
-          <mxGeometry x="53" y="355" width="128" height="128" as="geometry" />
-        </mxCell>
-        <mxCell id="qHHxkoNkfqChTESwmua2-8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/transportation-190/1000/aircraft_fighter_war_army_military_helicopter_helicopter_military-128.png" vertex="1" parent="1">
-          <mxGeometry x="-85" y="355" width="128" height="128" as="geometry" />
-        </mxCell>
-        <mxCell id="qHHxkoNkfqChTESwmua2-9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/transportation-190/1000/aircraft_fighter_war_army_military_helicopter_helicopter_military-128.png" vertex="1" parent="1">
-          <mxGeometry x="467" y="370" width="128" height="128" as="geometry" />
-        </mxCell>
-        <mxCell id="qHHxkoNkfqChTESwmua2-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/transportation-190/1000/aircraft_fighter_war_army_military_helicopter_helicopter_military-128.png" vertex="1" parent="1">
-          <mxGeometry x="600" y="380" width="128" height="128" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
