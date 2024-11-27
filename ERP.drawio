@@ -226,6 +226,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="iS7NpB1XGk3Hi0MDuRae-2" value="Continue in Parallel" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5B3WHIaPC_8j0w-X7diw-34">
+          <mxGeometry x="-0.4092" y="-32" relative="1" as="geometry">
+            <mxPoint x="52" y="25" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="5B3WHIaPC_8j0w-X7diw-36" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.067;entryY=0.488;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="5B3WHIaPC_8j0w-X7diw-15" target="5B3WHIaPC_8j0w-X7diw-26" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="983" y="699" as="sourcePoint" />
@@ -268,6 +273,11 @@
             <Array as="points">
               <mxPoint x="1610" y="985" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iS7NpB1XGk3Hi0MDuRae-1" value="Continue in Parallel&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5B3WHIaPC_8j0w-X7diw-42">
+          <mxGeometry x="0.1985" y="27" relative="1" as="geometry">
+            <mxPoint x="-62" y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5B3WHIaPC_8j0w-X7diw-43" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="5B3WHIaPC_8j0w-X7diw-16" target="80jmbBOF15hoLSCKZqi4-18" edge="1">
