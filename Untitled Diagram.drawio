@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.2.8">
   <diagram name="Page-1" id="2keoiiOLmxvh7805BPIv">
-    <mxGraphModel dx="2074" dy="1098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1970" dy="1158" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -186,6 +186,138 @@
         </mxCell>
         <mxCell id="lw8DFS0XibtdOAHYOYHp-74" value="&lt;font style=&quot;font-size: 15px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Latin+Modern+roman&quot; face=&quot;Latin Modern roman&quot;&gt;2x - total mission distance (Cruise Phase)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Latin Modern roman;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLatin%2BModern%2Broman;" parent="1" vertex="1">
           <mxGeometry x="630" y="610" width="270" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="p5eDsKb6Dgifr_W7U-pH-39" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=6;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="1450" as="sourcePoint" />
+            <mxPoint x="1360" y="1450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p5eDsKb6Dgifr_W7U-pH-40" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=6;flowAnimation=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="1451" as="sourcePoint" />
+            <mxPoint x="280" y="970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p5eDsKb6Dgifr_W7U-pH-41" value="&lt;font style=&quot;font-size: 15px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Latin+Modern+roman&quot; face=&quot;Latin Modern roman&quot;&gt;Altitude (ft)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;flipH=1;flipV=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1160" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p5eDsKb6Dgifr_W7U-pH-42" value="" style="endArrow=none;html=1;rounded=0;fillColor=#eeeeee;strokeColor=#999999;strokeWidth=8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="1450" as="sourcePoint" />
+            <mxPoint x="320" y="1370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p5eDsKb6Dgifr_W7U-pH-43" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f5f5f5;strokeColor=#999999;strokeWidth=8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1280" y="1450" as="sourcePoint" />
+            <mxPoint x="1280" y="1370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p5eDsKb6Dgifr_W7U-pH-44" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f5f5f5;strokeColor=#FFB570;strokeWidth=8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="1370" as="sourcePoint" />
+            <mxPoint x="400" y="1250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p5eDsKb6Dgifr_W7U-pH-45" value="" style="endArrow=none;html=1;rounded=0;fillColor=#ffcc99;strokeColor=#FFE599;strokeWidth=8;fontColor=#FFB570;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1280" y="1370" as="sourcePoint" />
+            <mxPoint x="1200" y="1250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p5eDsKb6Dgifr_W7U-pH-46" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f5f5f5;strokeColor=#7EA6E0;strokeWidth=8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="1250" as="sourcePoint" />
+            <mxPoint x="520" y="1250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p5eDsKb6Dgifr_W7U-pH-47" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f5f5f5;strokeColor=#7EA6E0;strokeWidth=8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1080" y="1250" as="sourcePoint" />
+            <mxPoint x="1200" y="1250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p5eDsKb6Dgifr_W7U-pH-48" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f5f5f5;strokeColor=#97D077;strokeWidth=8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="1250" as="sourcePoint" />
+            <mxPoint x="600" y="1090" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p5eDsKb6Dgifr_W7U-pH-49" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f5f5f5;strokeColor=#97D077;strokeWidth=8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1080" y="1250" as="sourcePoint" />
+            <mxPoint x="1000" y="1090" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p5eDsKb6Dgifr_W7U-pH-50" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f5f5f5;strokeColor=#B5739D;strokeWidth=8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="1090" as="sourcePoint" />
+            <mxPoint x="1000" y="1090" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p5eDsKb6Dgifr_W7U-pH-51" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="1090" as="sourcePoint" />
+            <mxPoint x="1280" y="1090" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p5eDsKb6Dgifr_W7U-pH-52" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Latin+Modern+roman&quot; face=&quot;Latin Modern roman&quot;&gt;1500&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="p5eDsKb6Dgifr_W7U-pH-51">
+          <mxGeometry x="-0.9364" y="5" relative="1" as="geometry">
+            <mxPoint x="6" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p5eDsKb6Dgifr_W7U-pH-53" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="1250" as="sourcePoint" />
+            <mxPoint x="1280" y="1250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p5eDsKb6Dgifr_W7U-pH-54" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Latin+Modern+roman&quot; face=&quot;Latin Modern roman&quot;&gt;300&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="p5eDsKb6Dgifr_W7U-pH-53">
+          <mxGeometry x="-0.9735" y="9" relative="1" as="geometry">
+            <mxPoint x="26" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p5eDsKb6Dgifr_W7U-pH-55" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="1370" as="sourcePoint" />
+            <mxPoint x="1280" y="1370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p5eDsKb6Dgifr_W7U-pH-56" value="&lt;font style=&quot;font-size: 15px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Latin+Modern+roman&quot; face=&quot;Latin Modern roman&quot;&gt;50&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="250" y="1320" as="geometry">
+            <mxPoint x="-12" y="39" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p5eDsKb6Dgifr_W7U-pH-57" value="&lt;font style=&quot;color: rgb(181, 115, 157); font-size: 15px;&quot;&gt;Cruise&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Latin Modern roman;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLatin%2BModern%2Broman;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1060" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p5eDsKb6Dgifr_W7U-pH-58" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Departure Procedure&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Latin Modern roman;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLatin%2BModern%2Broman;fontColor=#7EA6E0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1210" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p5eDsKb6Dgifr_W7U-pH-59" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Transition Climb&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Latin Modern roman;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLatin%2BModern%2Broman;fontColor=#FFB570;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p5eDsKb6Dgifr_W7U-pH-60" value="&lt;font style=&quot;color: rgb(153, 153, 153); font-size: 15px;&quot;&gt;Hover Climb&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Latin Modern roman;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLatin%2BModern%2Broman;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p5eDsKb6Dgifr_W7U-pH-61" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Decelerated Descent&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Latin Modern roman;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLatin%2BModern%2Broman;fontColor=#97D077;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="1160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p5eDsKb6Dgifr_W7U-pH-62" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Arrival Procedure&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Latin Modern roman;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLatin%2BModern%2Broman;fontColor=#7EA6E0;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="1220" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p5eDsKb6Dgifr_W7U-pH-63" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Accelerated Climb&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Latin Modern roman;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLatin%2BModern%2Broman;fontColor=#97D077;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p5eDsKb6Dgifr_W7U-pH-64" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Transition Descent&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Latin Modern roman;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLatin%2BModern%2Broman;fontColor=#FFB570;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="1290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p5eDsKb6Dgifr_W7U-pH-65" value="&lt;font style=&quot;color: rgb(153, 153, 153); font-size: 15px;&quot;&gt;Hover Descent&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Latin Modern roman;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLatin%2BModern%2Broman;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="1400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p5eDsKb6Dgifr_W7U-pH-70" value="&lt;font style=&quot;font-size: 15px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Latin+Modern+roman&quot; face=&quot;Latin Modern roman&quot;&gt;Mission Distance (km)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;flipH=1;flipV=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="1450" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
