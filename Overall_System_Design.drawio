@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.2">
   <diagram name="Page-1" id="vEMjjPuhtZ4TjiRQhsrf">
-    <mxGraphModel dx="1934" dy="1054" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2123" dy="1163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,7 +14,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UzdbpfX2UmG2lxa-5q7h-28" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="640" y="610" width="260" height="280" as="geometry" />
+          <mxGeometry x="660" y="610" width="230" height="260" as="geometry" />
         </mxCell>
         <mxCell id="UzdbpfX2UmG2lxa-5q7h-35" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Synthetic Data Generation&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Latin Modern roman;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLatin%2BModern%2Broman;" vertex="1" parent="1">
           <mxGeometry x="655" y="620" width="230" height="30" as="geometry" />
@@ -26,49 +26,49 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UzdbpfX2UmG2lxa-5q7h-38" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="960" y="610" width="260" height="280" as="geometry" />
+          <mxGeometry x="940" y="610" width="220" height="260" as="geometry" />
         </mxCell>
         <mxCell id="UzdbpfX2UmG2lxa-5q7h-39" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Exploratory Data Analysis&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Latin Modern roman;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLatin%2BModern%2Broman;" vertex="1" parent="1">
-          <mxGeometry x="975" y="620" width="230" height="30" as="geometry" />
+          <mxGeometry x="935" y="620" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UzdbpfX2UmG2lxa-5q7h-40" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: left;&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Latin+Modern+roman&quot; face=&quot;Latin Modern roman&quot;&gt;&lt;b&gt;Data Validation and Feature Analysis&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Latin+Modern+roman&quot; face=&quot;Latin Modern roman&quot;&gt;Feature relationship and correlation analysis&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Latin+Modern+roman&quot; face=&quot;Latin Modern roman&quot;&gt;Feature Selection for pre-processing and ML training&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="660" width="180" height="190" as="geometry" />
+          <mxGeometry x="960" y="660" width="180" height="190" as="geometry" />
         </mxCell>
         <mxCell id="UzdbpfX2UmG2lxa-5q7h-41" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="610" width="260" height="280" as="geometry" />
+          <mxGeometry x="1205" y="610" width="220" height="260" as="geometry" />
         </mxCell>
         <mxCell id="UzdbpfX2UmG2lxa-5q7h-42" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Data Preprocessing&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Latin Modern roman;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLatin%2BModern%2Broman;" vertex="1" parent="1">
-          <mxGeometry x="1295" y="620" width="230" height="30" as="geometry" />
+          <mxGeometry x="1200" y="620" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UzdbpfX2UmG2lxa-5q7h-43" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Latin Modern roman&quot;&gt;&lt;b&gt;Configuration Driven Pipeline&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;font face=&quot;Latin Modern roman&quot;&gt;Feature Extraction&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Latin Modern roman&quot;&gt;Feature Specific Scaling&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Latin Modern roman&quot;&gt;Scaler preservation&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Latin Modern roman&quot;&gt;Data Splitting (train/validation/test)&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="660" width="180" height="190" as="geometry" />
+          <mxGeometry x="1225" y="660" width="180" height="190" as="geometry" />
         </mxCell>
         <mxCell id="UzdbpfX2UmG2lxa-5q7h-44" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="640" y="940" width="700" height="280" as="geometry" />
+          <mxGeometry x="680" y="920" width="690" height="280" as="geometry" />
         </mxCell>
         <mxCell id="UzdbpfX2UmG2lxa-5q7h-45" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;ML Experimentation Framework&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Latin Modern roman;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLatin%2BModern%2Broman;" vertex="1" parent="1">
-          <mxGeometry x="800" y="950" width="230" height="30" as="geometry" />
+          <mxGeometry x="940" y="930" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UzdbpfX2UmG2lxa-5q7h-46" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Latin Modern roman&amp;quot;; text-align: left; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;Models&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;font face=&quot;Latin Modern roman&quot;&gt;Linear Regression (baseline)&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Latin Modern roman&quot;&gt;Random Forrest&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Latin Modern roman&quot;&gt;LSTM&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Latin Modern roman&quot;&gt;XGBoost&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="680" y="990" width="180" height="190" as="geometry" />
+          <mxGeometry x="705" y="970" width="180" height="190" as="geometry" />
         </mxCell>
         <mxCell id="UzdbpfX2UmG2lxa-5q7h-47" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="850" y="1260" width="550" height="280" as="geometry" />
+          <mxGeometry x="670" y="1250" width="710" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="UzdbpfX2UmG2lxa-5q7h-48" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Federated Learning System&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Latin Modern roman;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLatin%2BModern%2Broman;" vertex="1" parent="1">
-          <mxGeometry x="1115" y="1270" width="230" height="30" as="geometry" />
+        <mxCell id="UzdbpfX2UmG2lxa-5q7h-48" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Federated Learning System and Experiment&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Latin Modern roman;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLatin%2BModern%2Broman;" vertex="1" parent="1">
+          <mxGeometry x="862.5" y="1260" width="385" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UzdbpfX2UmG2lxa-5q7h-51" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Latin Modern roman&quot;&gt;&lt;b&gt;Server&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;font face=&quot;Latin Modern roman&quot;&gt;Orchestrates 12 training rounds for a Linear Regression model&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Latin Modern roman&quot;&gt;Aggregates updates every training round&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Latin Modern roman&quot;&gt;Synchronous updates&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Latin Modern roman&quot;&gt;Only allows clients with data for the respective month&#39;s round to participate&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="1310" width="180" height="190" as="geometry" />
+          <mxGeometry x="920" y="1300" width="180" height="190" as="geometry" />
         </mxCell>
         <mxCell id="UzdbpfX2UmG2lxa-5q7h-52" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Latin Modern roman&amp;quot;; text-align: left; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;Clients&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;font face=&quot;Latin Modern roman&quot;&gt;The service providers represented in the synthetic data&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Latin Modern roman&quot;&gt;Each client will have its own flight data&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Latin Modern roman&quot;&gt;Trains a linear regression model locally on monthly flight data.&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="900" y="1310" width="180" height="190" as="geometry" />
+          <mxGeometry x="690" y="1300" width="180" height="190" as="geometry" />
         </mxCell>
         <mxCell id="UzdbpfX2UmG2lxa-5q7h-53" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Latin Modern roman&amp;quot;; text-align: left; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;Consistent Experiment Components&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;font face=&quot;Latin Modern roman&quot;&gt;Hyperparameter Optimisation&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Latin Modern roman&quot;&gt;Pre-processing Pipeline&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Latin Modern roman&quot;&gt;Experiment Tracking&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Latin Modern roman&quot;&gt;Data Splits&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Latin Modern roman&quot;&gt;Evaluation&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="880" y="990" width="180" height="190" as="geometry" />
+          <mxGeometry x="935" y="970" width="180" height="190" as="geometry" />
         </mxCell>
         <mxCell id="UzdbpfX2UmG2lxa-5q7h-57" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;font face=&quot;Latin Modern roman&quot;&gt;&lt;b&gt;Best Model Selection&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Latin+Modern+roman&quot; face=&quot;Latin Modern roman&quot;&gt;Compare the accuracy results from the models carrying out prediction on the unseen test data.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Latin+Modern+roman&quot; face=&quot;Latin Modern roman&quot;&gt;Select the model with the greatest accuracy&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="990" width="180" height="190" as="geometry" />
+          <mxGeometry x="1165" y="965" width="180" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
